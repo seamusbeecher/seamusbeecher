@@ -1,6 +1,6 @@
 # Welcome to the GitHub Galaxy, Master Jedi! 🌌
 
-![Jedi Image]()
+![Jedi Image](https://raw.githubusercontent.com/seamusbeecher/seamusbeecher/main/jedideveloper.png)
 
 ## Greetings, Esteemed Master Jedi. I am Seamus Beecher, Knight of the Code Order. 🚀
 
