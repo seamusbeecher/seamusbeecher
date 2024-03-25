@@ -26,5 +26,5 @@ Welcome to this sanctum within the GitHub Galaxy, where the Force and code inter
 ## My Jedi Stats 📊 
 Well, it seems my Jedi title might be in jeopardy after looking at these stats. If my lightsaber skills were as rusty as my GitHub contributions, they'd revoke my Jedi status faster than you can say "May the Force be with you"! 🤣
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![seamusbeecher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
