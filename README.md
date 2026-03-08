@@ -1,7 +1,5 @@
 # Hi, I'm Seamus 👋
 
-Welcome to my GitHub profile.
-
 I'm a systems engineer and developer who enjoys building tools, automations, and web applications.
 
 ## What I'm Working On
