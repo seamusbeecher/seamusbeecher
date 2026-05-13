@@ -17,4 +17,4 @@ I'm a systems engineer and developer who enjoys building tools, automations, and
 - Networking and infrastructure
 
 ## Gaming Website
-- https://wwww.piratebinks.com
+- https://www.piratebinks.com
