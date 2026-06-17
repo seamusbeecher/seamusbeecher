@@ -16,5 +16,5 @@ I'm a systems engineer and developer who enjoys building tools, automations, and
 - Linux / Windows Server
 - Networking and infrastructure
 
-## Gaming Website
+## Website
 - https://www.seamusbeecher.com
